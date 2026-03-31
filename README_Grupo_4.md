@@ -42,13 +42,15 @@ Tipo: API REST pública y gratuita
 Endpoint utilizado:   
 https://restcountries.com/v3.1/all?fields=name,area,population,region,gini   
 
-<u>Datos obtenidos:</u>  
+**Datos obtenidos:**  
 Nombre del país   
 Región geográfica   
 Población   
 Área (km²)
 
-<u>Uso en el proyecto:</u>   
+**Uso en el proyecto:**   
  Fuente de datos principal para el análisis de correlación y regresión lineal entre área y población de una muestra de 100 países.   
-<u>Autenticación:</u> No requiere API key ✅   
-<u>Formato de respuesta:</u> JSON 
+
+**Autenticación:** No requiere API key ✅   
+
+**Formato de respuesta:** JSON 
