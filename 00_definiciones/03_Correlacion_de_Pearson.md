@@ -29,3 +29,6 @@ Para que la correlación de Pearson sea válida, los datos deben cumplir ciertos
 **•	Normalidad:** Los datos deben seguir una distribución normal bivariada.   
 **•	Variables Numéricas:** Solo funciona con datos cuantitativos continuos.   
 **•	Sensibilidad:** Es muy sensible a valores atípicos (outliers), que pueden distorsionar los resultados
+
+
+![alt text](image-2.png)
