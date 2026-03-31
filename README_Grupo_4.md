@@ -54,3 +54,11 @@ Población
 **Autenticación:** No requiere API key ✅   
 
 **Formato de respuesta:** JSON 
+
+## Librerías 📔✏️
+- numpy as np  -> Cálculos numéricos
+- pandas as pd  -> Manipulación de datos
+- matplotlib.pyplot as plt  -> Gráficos básicos
+- seaborn as sns  ->  Gráficos estadísticos
+- plotly.express as px  ->  Gráficos interactivos
+- scipy from scipy import stats  ->  Funciones estadísticas
