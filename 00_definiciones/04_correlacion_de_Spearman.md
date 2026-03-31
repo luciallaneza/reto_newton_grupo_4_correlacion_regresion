@@ -32,6 +32,8 @@ Por ejemplo:
     o  Mónaco tiene poquísima población pero la densidad más alta del mundo. 
     o  Australia tiene población moderada pero densidad bajísima.
 
-![alt text](image.png)
+![alt text](../images/image_correlacion_Spearman.png)
 
-![alt text](image-1.png)
+<br><br>
+
+![alt text](../images/image_matriz_correlacion_Spearman.png)

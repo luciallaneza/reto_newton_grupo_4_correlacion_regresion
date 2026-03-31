@@ -30,5 +30,4 @@ Para que la correlación de Pearson sea válida, los datos deben cumplir ciertos
 **•	Variables Numéricas:** Solo funciona con datos cuantitativos continuos.   
 **•	Sensibilidad:** Es muy sensible a valores atípicos (outliers), que pueden distorsionar los resultados
 
-
-![alt text](image-2.png)
+![matriz_Pearson](../images/matriz_Pearson.png)
